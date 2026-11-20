@@ -1,21 +1,11 @@
 
-# Dependencies
 node_modules/
-**/node_modules/
-
-# Build outputs
 .next/
 dist/
 coverage/
-
-# Environment secrets
 .env
 .env.*
 !.env.example
-
-# Logs
 *.log
-
-# OS files
 .DS_Store
 Thumbs.db
